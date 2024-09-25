@@ -68,13 +68,13 @@ class Page2 extends StatelessWidget {
                     _buildSectionTitle('History'),
                     _buildInfoCard(
                       context,
-                      'Season kemaren cuman bisa Honor hehe. Sedang berusaha memperbaiki prestasi di season berikutnya.',
+                      'Sudah pernah merasakan bagaimana dunia kerja atau biasa disebut PKL selama kurun waktu 6 bulan',
                     ),
                     SizedBox(height: 20),
 
                     // Skill
                     _buildSectionTitle('Skills'),
-                    _buildSkillList(['HTML', 'React', 'JavaScript', 'CSS']),
+                    _buildSkillList(['HTML', 'React', 'Laravel', 'CSS', 'Flutter']),
                   ],
                 ),
               ),
